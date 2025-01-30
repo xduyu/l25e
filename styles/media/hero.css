@@ -1,0 +1,11 @@
+@media (max-width:863px) {
+    .nav-list {
+        display: none;
+    }
+}
+
+@media (max-width:300px) {
+    .reg__btn {
+        display: none;
+    }
+}
